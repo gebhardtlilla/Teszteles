@@ -1,0 +1,7 @@
+H:\12\Szoftvertesztelés\2024_11_28 Ügyfél osztály + tesztelése\2024_11_28_ugyfelosztaly\2024_11_28_ugyfelosztaly\obj\Debug\2024_11_28_ugyfelosztaly.csproj.AssemblyReference.cache
+H:\12\Szoftvertesztelés\2024_11_28 Ügyfél osztály + tesztelése\2024_11_28_ugyfelosztaly\2024_11_28_ugyfelosztaly\obj\Debug\2024_11_28_ugyfelosztaly.csproj.CoreCompileInputs.cache
+H:\12\Szoftvertesztelés\2024_11_28 Ügyfél osztály + tesztelése\2024_11_28_ugyfelosztaly\2024_11_28_ugyfelosztaly\bin\Debug\2024_11_28_ugyfelosztaly.exe.config
+H:\12\Szoftvertesztelés\2024_11_28 Ügyfél osztály + tesztelése\2024_11_28_ugyfelosztaly\2024_11_28_ugyfelosztaly\bin\Debug\2024_11_28_ugyfelosztaly.exe
+H:\12\Szoftvertesztelés\2024_11_28 Ügyfél osztály + tesztelése\2024_11_28_ugyfelosztaly\2024_11_28_ugyfelosztaly\bin\Debug\2024_11_28_ugyfelosztaly.pdb
+H:\12\Szoftvertesztelés\2024_11_28 Ügyfél osztály + tesztelése\2024_11_28_ugyfelosztaly\2024_11_28_ugyfelosztaly\obj\Debug\2024_11_28_ugyfelosztaly.exe
+H:\12\Szoftvertesztelés\2024_11_28 Ügyfél osztály + tesztelése\2024_11_28_ugyfelosztaly\2024_11_28_ugyfelosztaly\obj\Debug\2024_11_28_ugyfelosztaly.pdb

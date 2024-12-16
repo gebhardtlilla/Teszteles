@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\12\\Szoftvertesztel\u00E9s\\2024_11_28 \u00DCgyf\u00E9l oszt\u00E1ly \u002B tesztel\u00E9se\\2024_11_28_ugyfelosztaly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61C1A65C-4E51-4F7A-B22C-DC0310384D77}|2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly.csproj|h:\\12\\szoftvertesztel\u00E9s\\2024_11_28 \u00FCgyf\u00E9l oszt\u00E1ly \u002B tesztel\u00E9se\\2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C1A65C-4E51-4F7A-B22C-DC0310384D77}|2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly.csproj|solutionrelative:2024_11_28_ugyfelosztaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C1A65C-4E51-4F7A-B22C-DC0310384D77}|2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly.csproj|h:\\12\\szoftvertesztel\u00E9s\\2024_11_28 \u00FCgyf\u00E9l oszt\u00E1ly \u002B tesztel\u00E9se\\2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C1A65C-4E51-4F7A-B22C-DC0310384D77}|2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly.csproj|solutionrelative:2024_11_28_ugyfelosztaly\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2024_11_28 \u00DCgyf\u00E9l oszt\u00E1ly \u002B tesztel\u00E9se\\2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly\\Customer.cs",
+              "RelativeDocumentMoniker": "2024_11_28_ugyfelosztaly\\Customer.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2024_11_28 \u00DCgyf\u00E9l oszt\u00E1ly \u002B tesztel\u00E9se\\2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly\\Customer.cs*",
+              "RelativeToolTip": "2024_11_28_ugyfelosztaly\\Customer.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:00:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2024_11_28 \u00DCgyf\u00E9l oszt\u00E1ly \u002B tesztel\u00E9se\\2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly\\Program.cs",
+              "RelativeDocumentMoniker": "2024_11_28_ugyfelosztaly\\Program.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2024_11_28 \u00DCgyf\u00E9l oszt\u00E1ly \u002B tesztel\u00E9se\\2024_11_28_ugyfelosztaly\\2024_11_28_ugyfelosztaly\\Program.cs",
+              "RelativeToolTip": "2024_11_28_ugyfelosztaly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:59:45.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
