@@ -1,0 +1,41 @@
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\2025_04_10 MySQLKapcsolat.exe
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\2025_04_10 MySQLKapcsolat.deps.json
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\2025_04_10 MySQLKapcsolat.runtimeconfig.json
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\2025_04_10 MySQLKapcsolat.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\2025_04_10 MySQLKapcsolat.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\Google.Protobuf.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\MySql.Data.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\System.Text.Json.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\ZstdSharp.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_10 MySQLKapcsolat.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_10 MySQLKapcsolat.GeneratedMSBuildEditorConfig.editorconfig
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_10 MySQLKapcsolat.AssemblyInfoInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_10 MySQLKapcsolat.AssemblyInfo.cs
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_10 MySQLKapcsolat.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_10 MySQLKapcsolat.sourcelink.json
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_.1839D8B7.Up2Date
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_10 MySQLKapcsolat.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\refint\2025_04_10 MySQLKapcsolat.dll
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_10 MySQLKapcsolat.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\2025_04_10 MySQLKapcsolat.genruntimeconfig.cache
+H:\2024-2025\12.cb AAF 2csop\2025_04_10 MySQLKapcsolat\2025_04_10 MySQLKapcsolat\obj\Debug\net8.0\ref\2025_04_10 MySQLKapcsolat.dll

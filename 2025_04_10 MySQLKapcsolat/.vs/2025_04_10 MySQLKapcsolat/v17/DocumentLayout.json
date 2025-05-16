@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-2025\\12.cb AAF 2csop\\2025_04_10 MySQLKapcsolat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0969B88D-C857-4DDC-ACEA-931B2581ECD7}|2025_04_10 MySQLKapcsolat\\2025_04_10 MySQLKapcsolat.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2025_04_10 mysqlkapcsolat\\2025_04_10 mysqlkapcsolat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0969B88D-C857-4DDC-ACEA-931B2581ECD7}|2025_04_10 MySQLKapcsolat\\2025_04_10 MySQLKapcsolat.csproj|solutionrelative:2025_04_10 mysqlkapcsolat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0969B88D-C857-4DDC-ACEA-931B2581ECD7}|2025_04_10 MySQLKapcsolat\\2025_04_10 MySQLKapcsolat.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2025_04_10 mysqlkapcsolat\\2025_04_10 mysqlkapcsolat\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0969B88D-C857-4DDC-ACEA-931B2581ECD7}|2025_04_10 MySQLKapcsolat\\2025_04_10 MySQLKapcsolat.csproj|solutionrelative:2025_04_10 mysqlkapcsolat\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseConnection.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2025_04_10 MySQLKapcsolat\\2025_04_10 MySQLKapcsolat\\DataBaseConnection.cs",
+              "RelativeDocumentMoniker": "2025_04_10 MySQLKapcsolat\\DataBaseConnection.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2025_04_10 MySQLKapcsolat\\2025_04_10 MySQLKapcsolat\\DataBaseConnection.cs",
+              "RelativeToolTip": "2025_04_10 MySQLKapcsolat\\DataBaseConnection.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:47:55.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2025_04_10 MySQLKapcsolat\\2025_04_10 MySQLKapcsolat\\Program.cs",
+              "RelativeDocumentMoniker": "2025_04_10 MySQLKapcsolat\\Program.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2025_04_10 MySQLKapcsolat\\2025_04_10 MySQLKapcsolat\\Program.cs",
+              "RelativeToolTip": "2025_04_10 MySQLKapcsolat\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:44:25.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

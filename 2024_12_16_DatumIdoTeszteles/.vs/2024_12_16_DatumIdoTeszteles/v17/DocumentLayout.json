@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "H:\\12\\Szoftvertesztel\u00E9s\\2024_12_16_DatumIdoTeszteles\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6DC6E82-F208-4793-93CE-3BC20A5672E0}|2024_12_16_DatumIdoTeszteles\\2024_12_16_DatumIdoTeszteles.csproj|h:\\12\\szoftvertesztel\u00E9s\\2024_12_16_datumidoteszteles\\2024_12_16_datumidoteszteles\\datumido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DC6E82-F208-4793-93CE-3BC20A5672E0}|2024_12_16_DatumIdoTeszteles\\2024_12_16_DatumIdoTeszteles.csproj|solutionrelative:2024_12_16_datumidoteszteles\\datumido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6DC6E82-F208-4793-93CE-3BC20A5672E0}|2024_12_16_DatumIdoTeszteles\\2024_12_16_DatumIdoTeszteles.csproj|h:\\12\\szoftvertesztel\u00E9s\\2024_12_16_datumidoteszteles\\2024_12_16_datumidoteszteles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6DC6E82-F208-4793-93CE-3BC20A5672E0}|2024_12_16_DatumIdoTeszteles\\2024_12_16_DatumIdoTeszteles.csproj|solutionrelative:2024_12_16_datumidoteszteles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DatumIdo.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2024_12_16_DatumIdoTeszteles\\2024_12_16_DatumIdoTeszteles\\DatumIdo.cs",
+              "RelativeDocumentMoniker": "2024_12_16_DatumIdoTeszteles\\DatumIdo.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2024_12_16_DatumIdoTeszteles\\2024_12_16_DatumIdoTeszteles\\DatumIdo.cs",
+              "RelativeToolTip": "2024_12_16_DatumIdoTeszteles\\DatumIdo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:23:52.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2024_12_16_DatumIdoTeszteles\\2024_12_16_DatumIdoTeszteles\\Program.cs",
               "RelativeDocumentMoniker": "2024_12_16_DatumIdoTeszteles\\Program.cs",
               "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2024_12_16_DatumIdoTeszteles\\2024_12_16_DatumIdoTeszteles\\Program.cs",
               "RelativeToolTip": "2024_12_16_DatumIdoTeszteles\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T12:05:58.459Z",
               "EditorCaption": ""
