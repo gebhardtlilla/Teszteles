@@ -33,7 +33,7 @@ namespace TDD_feladat
             for (int j = 0; j < st.Length; j++)
             {
                 Grid[i, j] = st[j][0];
-                if (input[i][j] == 'C')
+                if (st[j] == "C")
                 {
                     Candles.Add(new Candle(i, j));
                 }
@@ -41,9 +41,9 @@ namespace TDD_feladat
         }
 
         //Metódusok
-        public bool IsInside(int a, int b)
+        public bool IsInside(int x, int y)
         {
-            return true;
+            return x >= 0 && y >= 0 && y < Grid.GetLength(0) && x < Grid.GetLength(1);
         }
 
     }
