@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Gebhardt_Lilla_Whereamigoing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|h:\\gebhardt_lilla_whereamigoing\\gebhardt_lilla_whereamigoing\\utvonalteszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|solutionrelative:gebhardt_lilla_whereamigoing\\utvonalteszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|H:\\Gebhardt_Lilla_Whereamigoing\\gebhardt_lilla_whereamigoing\\fajlbeolvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|solutionrelative:gebhardt_lilla_whereamigoing\\fajlbeolvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|H:\\Gebhardt_Lilla_Whereamigoing\\gebhardt_lilla_whereamigoing\\mezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|solutionrelative:gebhardt_lilla_whereamigoing\\mezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|H:\\Gebhardt_Lilla_Whereamigoing\\gebhardt_lilla_whereamigoing\\utvonalszamolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|solutionrelative:gebhardt_lilla_whereamigoing\\utvonalszamolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|H:\\Gebhardt_Lilla_Whereamigoing\\gebhardt_lilla_whereamigoing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48D4D4E-C72B-4566-9B7A-5AEA186C85DF}|Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing.csproj|solutionrelative:gebhardt_lilla_whereamigoing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FajlBeolvaso.cs",
+              "DocumentMoniker": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\FajlBeolvaso.cs",
+              "RelativeDocumentMoniker": "Gebhardt_Lilla_Whereamigoing\\FajlBeolvaso.cs",
+              "ToolTip": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\FajlBeolvaso.cs",
+              "RelativeToolTip": "Gebhardt_Lilla_Whereamigoing\\FajlBeolvaso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:36:15.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtvonalTeszt.cs",
+              "DocumentMoniker": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\UtvonalTeszt.cs",
+              "RelativeDocumentMoniker": "Gebhardt_Lilla_Whereamigoing\\UtvonalTeszt.cs",
+              "ToolTip": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\UtvonalTeszt.cs",
+              "RelativeToolTip": "Gebhardt_Lilla_Whereamigoing\\UtvonalTeszt.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:34:26.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtvonalSzamolo.cs",
+              "DocumentMoniker": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\UtvonalSzamolo.cs",
+              "RelativeDocumentMoniker": "Gebhardt_Lilla_Whereamigoing\\UtvonalSzamolo.cs",
+              "ToolTip": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\UtvonalSzamolo.cs",
+              "RelativeToolTip": "Gebhardt_Lilla_Whereamigoing\\UtvonalSzamolo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:32:23.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mezo.cs",
+              "DocumentMoniker": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\Mezo.cs",
+              "RelativeDocumentMoniker": "Gebhardt_Lilla_Whereamigoing\\Mezo.cs",
+              "ToolTip": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\Mezo.cs",
+              "RelativeToolTip": "Gebhardt_Lilla_Whereamigoing\\Mezo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:30:27.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\Program.cs",
+              "RelativeDocumentMoniker": "Gebhardt_Lilla_Whereamigoing\\Program.cs",
+              "ToolTip": "H:\\Gebhardt_Lilla_Whereamigoing\\Gebhardt_Lilla_Whereamigoing\\Program.cs",
+              "RelativeToolTip": "Gebhardt_Lilla_Whereamigoing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:08:13.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

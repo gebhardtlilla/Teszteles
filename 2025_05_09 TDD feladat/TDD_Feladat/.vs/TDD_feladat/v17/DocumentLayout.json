@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\",
+  "WorkspaceRootPath": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{992E69F7-03C0-437C-9DE3-845E9F03E18D}|TesztTDD\\TesztTDD.csproj|h:\\2024-2025\\12.cb szoftvertesztel\u00E9s 2 csop\\2025_05_09 tdd feladat\\tdd_feladat\\teszttdd\\testwithfilepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{992E69F7-03C0-437C-9DE3-845E9F03E18D}|TesztTDD\\TesztTDD.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_05_09 tdd feladat\\tdd_feladat\\teszttdd\\testwithfilepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{992E69F7-03C0-437C-9DE3-845E9F03E18D}|TesztTDD\\TesztTDD.csproj|solutionrelative:teszttdd\\testwithfilepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|h:\\2024-2025\\12.cb szoftvertesztel\u00E9s 2 csop\\2025_05_09 tdd feladat\\tdd_feladat\\tdd_feladat\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_05_09 tdd feladat\\tdd_feladat\\tdd_feladat\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|solutionrelative:tdd_feladat\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|h:\\2024-2025\\12.cb szoftvertesztel\u00E9s 2 csop\\2025_05_09 tdd feladat\\tdd_feladat\\tdd_feladat\\lightcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_05_09 tdd feladat\\tdd_feladat\\tdd_feladat\\lightcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|solutionrelative:tdd_feladat\\lightcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{992E69F7-03C0-437C-9DE3-845E9F03E18D}|TesztTDD\\TesztTDD.csproj|h:\\2024-2025\\12.cb szoftvertesztel\u00E9s 2 csop\\2025_05_09 tdd feladat\\tdd_feladat\\teszttdd\\lightcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{992E69F7-03C0-437C-9DE3-845E9F03E18D}|TesztTDD\\TesztTDD.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_05_09 tdd feladat\\tdd_feladat\\teszttdd\\lightcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{992E69F7-03C0-437C-9DE3-845E9F03E18D}|TesztTDD\\TesztTDD.csproj|solutionrelative:teszttdd\\lightcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|h:\\2024-2025\\12.cb szoftvertesztel\u00E9s 2 csop\\2025_05_09 tdd feladat\\tdd_feladat\\tdd_feladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_05_09 tdd feladat\\tdd_feladat\\tdd_feladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|solutionrelative:tdd_feladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|h:\\2024-2025\\12.cb szoftvertesztel\u00E9s 2 csop\\2025_05_09 tdd feladat\\tdd_feladat\\tdd_feladat\\candle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|h:\\12\\szoftvertesztel\u00E9s\\2025_05_09 tdd feladat\\tdd_feladat\\tdd_feladat\\candle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E30EBA4-B840-4A60-A0F7-E82AB46F04B7}|TDD_feladat\\TDD_feladat.csproj|solutionrelative:tdd_feladat\\candle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,19 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Candle.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Candle.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Candle.cs",
               "RelativeDocumentMoniker": "TDD_feladat\\Candle.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Candle.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Candle.cs",
               "RelativeToolTip": "TDD_feladat\\Candle.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,37 +52,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LightCalculator.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\LightCalculator.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\LightCalculator.cs",
               "RelativeDocumentMoniker": "TDD_feladat\\LightCalculator.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\LightCalculator.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\LightCalculator.cs",
               "RelativeToolTip": "TDD_feladat\\LightCalculator.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T10:41:02.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T10:41:02.335Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Room.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Room.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Room.cs",
               "RelativeDocumentMoniker": "TDD_feladat\\Room.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Room.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Room.cs",
               "RelativeToolTip": "TDD_feladat\\Room.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T10:37:19.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T10:37:19.221Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TestWithFilePath.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TesztTDD\\TestWithFilePath.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TesztTDD\\TestWithFilePath.cs",
               "RelativeDocumentMoniker": "TesztTDD\\TestWithFilePath.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TesztTDD\\TestWithFilePath.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TesztTDD\\TestWithFilePath.cs",
               "RelativeToolTip": "TesztTDD\\TestWithFilePath.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T15:27:58.179Z",
               "EditorCaption": ""
@@ -95,27 +89,25 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "LightCalculatorTests.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TesztTDD\\LightCalculatorTests.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TesztTDD\\LightCalculatorTests.cs",
               "RelativeDocumentMoniker": "TesztTDD\\LightCalculatorTests.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TesztTDD\\LightCalculatorTests.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TesztTDD\\LightCalculatorTests.cs",
               "RelativeToolTip": "TesztTDD\\LightCalculatorTests.cs",
               "ViewState": "AgIAALEAAAAAAAAAAAASwLgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:53:22.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T14:53:22.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Program.cs",
+              "DocumentMoniker": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Program.cs",
               "RelativeDocumentMoniker": "TDD_feladat\\Program.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb Szoftvertesztel\u00E9s 2 csop\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Program.cs",
+              "ToolTip": "H:\\12\\Szoftvertesztel\u00E9s\\2025_05_09 TDD feladat\\TDD_Feladat\\TDD_feladat\\Program.cs",
               "RelativeToolTip": "TDD_feladat\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T07:58:38.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T07:58:38.748Z"
             }
           ]
         }
